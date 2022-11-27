@@ -1,4 +1,4 @@
-function findFactorial(n) {
+/*function findFactorial(n) {
     var factorial = 1;
     for (var i = 1; i <= n; i++) {
         factorial *= i;
@@ -6,5 +6,17 @@ function findFactorial(n) {
     return factorial;
 }
 
-var n = 5;
+var n = 7;
 console.log(n+'! = '+ findFactorial(n));
+*/
+var person=
+{
+	name:"dheepi"'
+	gender:"female",
+	siblings:
+	{
+		brothers:"sathish",
+		sister:"sandhiya"
+	}
+}
+console.log(person["siblings"])

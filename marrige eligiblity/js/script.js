@@ -33,18 +33,5 @@ alert ("Buy Basic mobile")
 }
 */
 
-var grade=prompt("Enter thr price");
-switch(true)
-{
-case(grade==A):
-alert("grade A")
-break;
 
-case(grade!=A):
-alert("not grade A");
-break;
-
-default:
-alert(other grade);
-}
 

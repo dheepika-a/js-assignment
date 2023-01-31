@@ -1,9 +1,9 @@
 var num=parseInt(prompt("enter a number"));
-flag=true;
+sum=1;
 for(i=2;i<=num-1;i++){
 	if (num%i==0)
 	{
-		flag=false;
+		sum=0;
 		break;
 	}
 }

@@ -9,14 +9,3 @@
 var n = 7;
 console.log(n+'! = '+ findFactorial(n));
 */
-var person=
-{
-	name:"dheepi"'
-	gender:"female",
-	siblings:
-	{
-		brothers:"sathish",
-		sister:"sandhiya"
-	}
-}
-console.log(person["siblings"])
